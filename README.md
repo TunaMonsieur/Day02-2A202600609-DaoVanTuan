@@ -110,3 +110,13 @@ Phase 7  Individual Reflection            15'
 ---
 
 *Day 02 Lab v2 — Batch 02*
+
+## Starter templates added
+
+I created starter templates to help you complete the deliverable. Open and fill the files below:
+
+- `01-individual-problem-scan/scan.md`
+- `02-group-problem-statement/group_problem_statement.md`
+- `03-individual-reflection/reflection.md`
+
+If you want, I can help draft Problem Cards from your notes or convert filled outlines into Mermaid workflows.
